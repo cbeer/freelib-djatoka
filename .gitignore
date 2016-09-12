@@ -16,3 +16,4 @@ src/test/resources/walters_id_map.csv
 src/test/resources/images/FSPC_Shak_005*
 src/test/resources/moire.csv
 jetty-memory.*
+/target
